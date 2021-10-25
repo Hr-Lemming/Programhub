@@ -1,3 +1,4 @@
+// Husk at skrive kommentarer i din kode :) 
 
 int belobUdenMoms = 100;
 float belobMedMoms = 0;
